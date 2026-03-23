@@ -24,7 +24,6 @@ This is a **next-word prediction (language modeling)** task trained using **Spar
 - Target: **Next word**
 
 ### Example Transformation
-
 Input:
 w1 w2 w3 ... w10  
 
